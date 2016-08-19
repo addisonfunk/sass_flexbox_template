@@ -1,0 +1,16 @@
+$font-stack: 'Arima Madurai', cursive;
+$primary-color: #1ac6ff;
+
+#header {
+	font-family: $font-stack; 
+	color: $primary-color;
+}
+
+p {
+	color: blue;
+	font-family: $font-stack;
+}
+
+#nav-row {
+	background-color: $primary-color;
+}
